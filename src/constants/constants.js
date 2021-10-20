@@ -5,19 +5,9 @@ export const projects = [
     description: 'This is an E-COMMERCE web application build through REACT - click visit the live website',
     image: '/images/mangatsuki.jpeg',
     tags: ['React', 'commerce.js', 'material ui'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/mohd-sahill/online-Manga-store',
+    visit: 'https://online-manga-store.netlify.app',
     id: 0,
-  },
-  {
-    
-    title: 'E-',
-    description: 'This is a asdn E-COMMERCE web application build through REACT - click visit the live website',
-    image: '/images/mangatsuki',
-    tags: ['React', 'commerce.js', 'material ui'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 1,
   },
 ];
 
