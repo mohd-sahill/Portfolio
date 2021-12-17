@@ -1,6 +1,5 @@
 export const projects = [
-  {
-    
+  {  
     title: 'E-commerce',
     description: 'This is an E-COMMERCE web application build through REACT - click visit the live website',
     image: '/images/mangatsuki.jpeg',
@@ -9,10 +8,19 @@ export const projects = [
     visit: 'https://online-manga-store.netlify.app',
     id: 0,
   },
+  {  
+    title: 'Its a crypto-currency tracker that one can use to build ',
+    description: 'This is an crypto currency rate trackerbuild through REACT - click visit the live website',
+    image: '/images/crypto-tracker.png',
+    tags: ['React', 'CoinGeckoAPI', 'Netlify'],
+    source: 'https://github.com/mohd-sahill/crypto-project',
+    visit: 'https://my-crypto-guide-sahil.netlify.app/',
+    id: 0,
+  },
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Started my journey', },
   { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2021, text: 'Learnt a lot', },
+  { year: 2022, text: 'Looking for a job', },
 ];
