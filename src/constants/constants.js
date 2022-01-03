@@ -26,6 +26,14 @@ export const projects = [
     visit: 'https://sahils-microsoft-clone.netlify.app/',
     id: 2,
   },
+  {  
+    title: 'goChat',
+    description: 'Its a chat app made with websocket library socket.io and react. down below you can the source code for this application',
+    image: '/images/chat-app.png',
+    tags: ['React.js', 'CSS', 'JAVASCRIPT','Socket.io'],
+    source: 'https://github.com/mohd-sahill/slicko-chat-app',
+    id: 3,
+  }
 ];
 
 export const TimeLineData = [
